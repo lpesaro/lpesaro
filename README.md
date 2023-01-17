@@ -21,12 +21,12 @@
 		<tr>
 			<td>
 				<a href="https://github.com/lpesaro">
-					<img src="https://github-readme-stats.vercel.app/api?username=lpesaro&theme=highcontrast width="380" height="200">
+					<img src="https://github-readme-stats.vercel.app/api?username=lpesaro&theme=highcontrast>
 				</a> 
 			</td>
 			<td>
 				<a href="https://github.com/lpesaro?tab=repositories">
-					<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lpesaro&layout=compact&theme=tokyonight width="380" height="200">
+					<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lpesaro&layout=compact&theme=tokyonight>
 				</a>
 			</td>
 		</tr>
