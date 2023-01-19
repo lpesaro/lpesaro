@@ -10,7 +10,7 @@
 		</tr>
 		<tr>
 			<a href="https://github.com/lpesaro">
-				<img src="https://badge42.vercel.app/api/v2/cld0thm5800160fmfijhemq0a/stats?cursusId=21&coalitionId=undefined">
+				<img src="https://badge42.vercel.app/api/v2/cld0thm5800160fmfijhemq0a/stats?cursusId=21&coalitionId=125">
 			</a>
 		</tr>
 	</table>
