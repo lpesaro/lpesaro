@@ -1,5 +1,5 @@
 # Hi there 👋
-- 👋 Hi, I’m @lpesaro (Luigi)
+- 👋 Hi, I’m @luigi_pesaro (Luigi)
 - 🖥 I’m currently student at 42Roma Luiss
 - ⌨️ I’m currently learning C.
 - 📫 Reach me -> lpesaro@student.42roma.it
